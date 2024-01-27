@@ -7,6 +7,7 @@ This project was conducted as part of the laboratory work for the course "Microe
 
 ## Circuit Design:
 The chosen circuit configuration is an inverting amplifier with high input resistance. <br>
+
 **Image 1: Circuit** <br>
 ![Circuit](https://github.com/grilio/thermal-analysis-of-heatsinks/blob/main/images/image2.png?raw=true)
 
