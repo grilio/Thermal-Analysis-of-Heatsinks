@@ -1,5 +1,3 @@
-Certainly! Here's the README file with images embedded:
-
 # Project Title: Thermal Simulation of heatsinks for LM308N Amplifier
 
 ## Overview:
